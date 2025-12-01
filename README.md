@@ -47,3 +47,5 @@
   JavaScript for logic, timers, and interactivity
 
   Great demonstration of DOM manipulation, intervals, arrays, and events.
+  
+<img width="1919" height="936" alt="output" src="https://github.com/user-attachments/assets/a754af32-c09a-49ac-86bf-55113eee1ff3" />
